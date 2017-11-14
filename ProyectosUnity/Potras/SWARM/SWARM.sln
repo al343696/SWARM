@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWARM.Plugins", "SWARM.Plug
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWARM.Editor.Plugins", "SWARM.Editor.Plugins.csproj", "{42276ADD-8B3B-D3D1-2ED2-D96D644CA293}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWARM.Editor", "SWARM.Editor.csproj", "{0A86ACC0-CA5D-2F1B-E7C1-5FC9AF5AE34A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{42276ADD-8B3B-D3D1-2ED2-D96D644CA293}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42276ADD-8B3B-D3D1-2ED2-D96D644CA293}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42276ADD-8B3B-D3D1-2ED2-D96D644CA293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A86ACC0-CA5D-2F1B-E7C1-5FC9AF5AE34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A86ACC0-CA5D-2F1B-E7C1-5FC9AF5AE34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A86ACC0-CA5D-2F1B-E7C1-5FC9AF5AE34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A86ACC0-CA5D-2F1B-E7C1-5FC9AF5AE34A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
